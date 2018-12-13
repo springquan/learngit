@@ -1,1 +1,2 @@
-abc123ILOVEU我爱你
+Git is a distributed version control system.
+Git is free software.
